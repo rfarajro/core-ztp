@@ -2,4 +2,4 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: policie-test
-  namespace: openshift-operators
+  namespace: ztp-instance
