@@ -2,4 +2,4 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: minilab-test
-  namespace: openshift-operators
+  namespace: ztp-instance
