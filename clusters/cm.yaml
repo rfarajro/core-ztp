@@ -2,4 +2,4 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: cluster-test
-  namespace: openshift-operators
+  namespace: ztp-instance
